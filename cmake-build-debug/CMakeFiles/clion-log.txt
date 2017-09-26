@@ -1,4 +1,0 @@
-C:\cygwin64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/h/git/BigDecimal
--- Configuring done
--- Generating done
--- Build files have been written to: /cygdrive/h/git/BigDecimal/cmake-build-debug
